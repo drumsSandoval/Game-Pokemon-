@@ -1,0 +1,9 @@
+Peke Ball|200|50|Lanza una Peke Ball con 50% de precisión
+Great Ball|600|75|Lanza una Peke Ball con 75% de precisión
+Ultra Ball|800|90|Lanza una Peke Ball con 90% de precisión
+Max Potion|2500|100000|Restaura 100000 de energía al pekemon
+Hyper Potion|1500|200|Restaura 200 de energía al pekemon
+Super Potion|700|50|Restaura 50 de energía al pekemon
+Potion|200|20|Restaura 20 de energía al pekemon
+Hp Up    |9800|2560|Incrementa 2560 de energía al pekemon
+Protein|9800|2560|Incrementa 2560 de fuerza al pekemon

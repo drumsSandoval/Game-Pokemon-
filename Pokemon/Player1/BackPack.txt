@@ -1,0 +1,2 @@
+Ultra Ball|800|90|Lanza una Peke Ball con 90% de precisión|1
+Super Potion|700|50|Restaura 50 de energía al pekemon|1

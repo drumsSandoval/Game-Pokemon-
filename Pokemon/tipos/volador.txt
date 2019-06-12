@@ -1,0 +1,6 @@
+Drill Peck
+Fly	Flying
+Gust
+Peck
+Sky Attack
+Wing Attack

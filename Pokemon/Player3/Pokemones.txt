@@ -1,0 +1,2 @@
+CHARIZARD|5|6|10|25|Ember,1
+ury el furro|4|3|9|19|Confusion,0

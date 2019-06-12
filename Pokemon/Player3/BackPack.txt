@@ -1,0 +1,1 @@
+Peke Ball|200|50|Lanza una Peke Ball con 50% de precisión|2

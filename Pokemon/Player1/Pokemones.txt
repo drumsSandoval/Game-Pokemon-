@@ -1,0 +1,2 @@
+CHARIZARD|6|14|15|64|Ember,2
+Pequeñin|2|22|12|23|Aurora Beam,0

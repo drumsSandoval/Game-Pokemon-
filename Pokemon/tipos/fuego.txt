@@ -1,0 +1,5 @@
+Ember
+Fire Blast
+Fire Punch
+Fire Spin
+Flamethrower

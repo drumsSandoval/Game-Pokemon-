@@ -1,0 +1,5 @@
+SQUIRTLE|5|2|10|31|Bubble,1
+otro|4|33|13|11|Acid,0
+otro mas|5|22|13|16|Acid,0
+aun otro|2|4|8|13|Bone Club,0
+ww|3|12|9|15|Barrage,0

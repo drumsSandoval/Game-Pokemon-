@@ -1,0 +1,4 @@
+Bone Club
+Bonemerang
+Dig	Ground
+Earthquake
